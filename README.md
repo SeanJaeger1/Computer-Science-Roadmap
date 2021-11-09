@@ -941,7 +941,7 @@ Graphs can be used to represent many problems in computer science, so this secti
     - [ ] [Algorithms on Graphs (video)](https://www.coursera.org/learn/algorithms-on-graphs/home/welcome)
 
 - I'll implement:
-    - [ ] DFS with adjacency list (recursive)
+    - [x] DFS with adjacency list (recursive)
     - [x] DFS with adjacency list (iterative with stack)
     - [ ] DFS with adjacency matrix (recursive)
     - [ ] DFS with adjacency matrix (iterative with stack)
