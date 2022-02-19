@@ -26,22 +26,6 @@
         <strong>Special thanks to:</strong>
     </p>
     <p>
-        <a href="https://simplify.jobs/?utm_source=github&utm_medium=coding-interview-university">
-            <div>
-                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/simplify-logo.png" width="400"  alt="Simplify">
-            </div>
-            <div>
-                <p>
-                    <strong>Applying to jobs? Autofill all your applications in 1-click.</strong>
-                </p>
-            </div>
-            <div>
-                <sup>Stop manually re-entering your information. Simplify’s extension helps you autofill jobs &amp; internship applications on millions of sites.</sup>
-            </div>
-        </a>
-    </p>
-    <br />
-    <p>
         <a href="https://oss.capital/">
             <div>
                 <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/oss-capital.svg" width="350" alt="OSS Capital">
@@ -1438,7 +1422,7 @@ See [Book List above](#book-list)
 
 ראיונות דמה:
 - [Pramp - להתאמן בראיונות קידוד עם אחרים, בחינם](https://www.pramp.com/)
-- [Mock interviewers from big companies](http://www.gainlo.co/)
+- [Mock interviewers from big companies](http://www.gainlo.co/#!/)
 
 ## Once you're closer to the interview
 
@@ -1592,7 +1576,6 @@ You're never really done.
             - [Emacs Tutorial (Beginners) -Part 3- Expressions, Statements, ~/.emacs file and packages](https://www.youtube.com/watch?v=paSgzPso-yc)
         - [Evil Mode: Or, How I Learned to Stop Worrying and Love Emacs (video)](https://www.youtube.com/watch?v=JWD1Fpdd4Pc)
         - [Writing C Programs With Emacs](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#Writing_C_programs_with_Emacs)
-        - [(maybe) Org Mode In Depth: Managing Structure (video)](https://www.youtube.com/watch?v=nsGYet02bEk)
 
 - ### Unix command line tools
     - suggested by Yegge, from an old Amazon recruiting post. I filled in the list below from good tools.

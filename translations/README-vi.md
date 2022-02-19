@@ -38,22 +38,6 @@ Ghi chú riêng cho việc duy trì và cập nhật bản dịch tiếng Việt
         <strong>Special thanks to:</strong>
     </p>
     <p>
-        <a href="https://simplify.jobs/?utm_source=github&utm_medium=coding-interview-university">
-            <div>
-                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/simplify-logo.png" width="400"  alt="Simplify">
-            </div>
-            <div>
-                <p>
-                    <strong>Applying to jobs? Autofill all your applications in 1-click.</strong>
-                </p>
-            </div>
-            <div>
-                <sup>Stop manually re-entering your information. Simplify’s extension helps you autofill jobs &amp; internship applications on millions of sites.</sup>
-            </div>
-        </a>
-    </p>
-    <br />
-    <p>
         <a href="https://oss.capital/">
             <div>
                 <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/oss-capital.svg" width="350" alt="OSS Capital">
@@ -1468,7 +1452,7 @@ Các trang giải toán lập trình:
 - [InterviewBit](https://www.interviewbit.com)
 
 Xem thêm:
-- [Phỏng vấn thử nghiệm](http://www.gainlo.co/)
+- [Phỏng vấn thử nghiệm](http://www.gainlo.co/#!/)
 
 
 ## Khi bạn tiến gần đến kỳ phỏng vấn
@@ -1584,7 +1568,6 @@ Bạn không bao giờ thực sự học xong!
             - [Emacs Tutorial (Beginners) -Part 3- Expressions, Statements, ~/.emacs file and packages](https://www.youtube.com/watch?v=paSgzPso-yc)
         - [Evil Mode: Or, How I Learned to Stop Worrying and Love Emacs (video)](https://www.youtube.com/watch?v=JWD1Fpdd4Pc)
         - [Writing C Programs With Emacs](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#Writing_C_programs_with_Emacs)
-        - [(maybe) Org Mode In Depth: Managing Structure (video)](https://www.youtube.com/watch?v=nsGYet02bEk)
 
 - ### Các công cụ chạy trên dòng lệnh của Unix
     - Được đề xuất bởi Yegge, từ một bài đăng tuyển dụng cũ của Amazon.
